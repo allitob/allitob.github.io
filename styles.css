@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.hero{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background: #FFFFFF;/*#F6EFE7;*/
+}
+
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: red;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.detel1{
+    width: 500px;
+    margin-left: 15vw;
+    margin-right: 5%;
+    margin-top: 10%;
+}
+
+.detel2{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+.detel1 h1{
+    float: left;
+    font-size: 40px;
+    color: #212121;
+    margin-bottom: 20px;
+    max-width: 700px;
+    min-width: 400px;
+}
+
+.detel1 p{
+    float: left;
+    color: #555;
+    line-height: 22px;
+    max-width: 770px;
+    min-width: 300px;
+}
+
+.detel2 img{
+    float:right;
+    min-width: 250px;
+    max-width: 350px;
+    box-shadow: 0 0 20px -10px;
+}
+
+.article {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 20%;
+    text-align: justify;
+    max-width: 100vh;
+}
+
+.article p{
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+.article h2{
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 2em;
+    text-align: justify;
+    font-family: "Times New Roman";
+}
+
+.article p span{
+    display: block;
+    margin-top: 2em;
+    font-family: "Times New Roman";
+    line-height: 150%;
+    
+}
+
+.article img{
+    margin: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%
+}
+
+.videowrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+}
+
+.article iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 30%;
+}
+
+.container a{
+    text-decoration: none;
+}
+
+.container2 a{
+    text-decoration: none;
+}
+
+.card{
+    background: white;
+    width: 340px;
+    height: 420px;
+    box-shadow: 0 0 20px -8px;
+    margin: 20px;
+    margin-top: 5%;
+    border-radius: 15px;
+}
+
+.card-image{
+    background-color: gray;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 15px 15px 0 0 ;
+    background-size: cover;
+}
+
+.car-1 {
+    background-image: url(Verkefni1.0.png);
+}
+
+.card h2{
+    padding: 0 10px 5px 10px;
+    color: black;
+}
+
+.card p{
+    padding: 0 10px 10px 10px;
+    color: dimgray;
+}
+
+.card a.link{
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 110px;
+}
+
+.card:hover {
+    background-color: rgb(62,62,62);
+    color: white;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.card:hover h2 {
+    color: white;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+
+.card:hover p {
+    color: lightgray;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+
+.footer-bottom1{
+    background: #303036;
+    color: #d3d3d3;
+    height: 30px;
+    line-height: 20px;
+}
+
+.footer-bottom3{
+    background: #303036;
+    color: #d3d3d3;
+    height: 30px;
+    margin-top: -15%;
+    line-height: 20px;
+}
+
+.footer-bottom1 center, .footer-bottom2 center, .footer-bottom3 center{
+    padding: 5px;    
+}
+
+.footer-bottom1 center span, .footer-bottom2 center span, .footer-bottom3 center span{
+    color: #656565;
+    vertical-align: top;
+}
+
+.footer-bottom1 center a, .footer-bottom2 center a, .footer-bottom3 center a{
+    color: #656565;
+    text-decoration: none;
+    padding-top: 5px;
+    vertical-align: middle;
+}
+
+.footer-bottom1 center a:hover, .footer-bottom2 center a:hover, .footer-bottom3 center a:hover{
+    text-decoration: underline;
+}
