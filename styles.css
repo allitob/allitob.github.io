@@ -92,12 +92,17 @@ nav ul li a:hover{
     font-family: "Times New Roman";
 }
 
-.article p span{
+.article p span {
     display: block;
     margin-top: 2em;
     font-family: "Times New Roman";
     line-height: 150%;
     
+}
+
+.article a {
+    font-family: "Times New Roman";
+    text-decoration: none;
 }
 
 .article img{
