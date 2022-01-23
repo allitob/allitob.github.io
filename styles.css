@@ -43,6 +43,7 @@ nav ul li a:hover{
     margin: 5% auto;
     padding: 10px auto;;
     flex-wrap: wrap;
+    font-family: sans-serif;
 }
 
 .info span {
@@ -53,6 +54,16 @@ nav ul li a:hover{
     align-items: center;
     vertical-align: middle;
     margin-bottom: 5%;
+}
+
+.info h1 {
+    margin-top: 7vw;
+    font-size: 40px;
+}
+
+.info p {
+    margin-top: 1vw;
+    color: dimgrey;
 }
 
 .article {
