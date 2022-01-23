@@ -38,22 +38,36 @@ nav ul li a:hover{
 
 .info {
     display: flex;
+    justify-content: space-between;
+    max-width: 90%;
+    margin: 5% auto;
+    padding: 10px 0;
     flex-wrap: wrap;
 }
 
-.detel1{
-    width: 500px;
-    margin-left: 15vw;
+.info span {
+    display: inline-block;
+    width: 40%;
+    min-width: 300px;
+    height: auto;
+    align-items: center;
+    vertical-align: middle;
+}
+
+/*.detel1{
+    display: block;
+    width: 40vh;
+    margin-left: 15wv;
     margin-right: 5%;
     margin-top: 10%;
 }
 
 .detel2{
-    
     display: block;
-    margin-left: auto;
-    margin-right: 5%;
-    margin-top: 5%;
+    width: 50vh;
+    float: right;
+    margin-left: 5%;
+    margin-right: 15vw;
 }
 
 .detel1 h1{
@@ -78,7 +92,7 @@ nav ul li a:hover{
     min-width: 250px;
     max-width: 350px;
     box-shadow: 0 0 20px -10px;
-}
+}*/
 
 .article {
     margin-left: auto;
