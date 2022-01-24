@@ -83,8 +83,24 @@ nav ul li a:hover{
     height: 300px;
 }
 
+.nodec{
+    list-style-type: none;
+}
+
+.yesdec{
+    list-style-type: disc;
+    margin-left: 20px;
+    color: darkslategray;
+}
+
 .contents h1{
-    font-size: 40px;
+    font-size: 36px;
+    color: darkgray;
+}
+
+.contents h2{
+    font-size: 24px;
+    color: #010E91;
 }
 
 .article {
