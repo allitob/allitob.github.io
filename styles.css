@@ -66,6 +66,27 @@ nav ul li a:hover{
     color: dimgrey;
 }
 
+.CV {
+    display: flex;
+    padding: 5%;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-right: 30vw;
+    margin-left: 5%;
+}
+
+.contents{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    width: 50vh;
+    height: 300px;
+}
+
+.contents h1{
+    font-size: 40px;
+}
+
 .article {
     margin-left: auto;
     margin-right: auto;
