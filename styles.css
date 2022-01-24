@@ -100,7 +100,26 @@ nav ul li a:hover{
 
 .contents h2{
     font-size: 24px;
-    color: #010E91;
+    color: #000A77;
+}
+
+.download{
+    background: #69DFFF;
+    text-align: center;
+    margin: auto;
+    width: 180px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.download p{
+    color: lightgray;
+    font-weight: bold;
+}
+
+.CV a{
+    text-decoration: none;
 }
 
 .article {
