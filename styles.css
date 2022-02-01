@@ -250,6 +250,7 @@ nav ul li a:hover{
 }
 
 .card p{
+    height: 82px;
     padding: 0 10px 10px 10px;
     color: dimgray;
 }
