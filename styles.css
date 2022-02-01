@@ -240,6 +240,10 @@ nav ul li a:hover{
     background-image: url(Verkefni1.0.png);
 }
 
+.car-2 {
+    background-image: url(Verkefni2.0.png);
+}
+
 .card h2{
     padding: 0 10px 5px 10px;
     color: black;
