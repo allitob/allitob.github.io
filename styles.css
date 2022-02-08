@@ -150,7 +150,7 @@ nav ul li a:hover{
 
 .article p span {
     display: block;
-    margin-top: 2em;
+    margin-bottom: 2em; /*ef allt fór í fokk, breyta í margin-top*/
     font-family: "Times New Roman";
     line-height: 150%;
     
@@ -170,6 +170,15 @@ nav ul li a:hover{
     font-family: "Times New Roman";
     font-size: 1.2em;
     line-height: 150%;
+}
+
+.article u{
+    font-family: "Courier New";
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: 600;
 }
 
 .article img{
