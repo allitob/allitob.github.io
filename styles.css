@@ -66,6 +66,16 @@ nav ul li a:hover{
     color: dimgrey;
 }
 
+.info a {
+    line-height: 100px;
+    color: lightblue;
+    text-decoration: none;
+}
+
+.info a:hover{
+    text-decoration: underline;
+}
+
 .CV {
     display: flex;
     padding: 5%;
