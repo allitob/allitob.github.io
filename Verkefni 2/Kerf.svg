@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg93"
+   sodipodi:docname="gudomlega kerfid v0.dxf"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview95"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="1.166627"
+     inkscape:cx="195.00663"
+     inkscape:cy="135.00459"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g91" />
+  <desc
+     id="desc2">gudomlega kerfid v0.dxf - scale = 25.4, origin = (0.0, 0.0), method = file</desc>
+  <defs
+     id="defs17">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path4" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path7" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path11" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g19" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="gudomlega kerfid v1_Sketch1"
+     id="g91">
+    <path
+       d="M 0.250000,1122.519685 A 0.250000,0.250000 -0.000000 1 0 -0.250000,1122.519685 0.250000,0.250000 -0.000000 1 0 0.250000,1122.519685 z"
+       style="fill:none;stroke:#000000"
+       id="path21" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3.4712303,33.917944 H 103.12521"
+       id="path27" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 103.12521,33.917944 V 4.0217503"
+       id="path33" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 103.12521,4.0217503 H 3.4712303"
+       id="path35" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 13.436628,4.0217503 V 33.917944"
+       id="path37" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 53.29822,4.0217503 V 33.917944"
+       id="path41" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 23.402026,4.0217503 V 33.917944"
+       id="path43" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 43.332822,4.0217503 V 33.917944"
+       id="path45" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 63.263618,4.0217503 V 33.917944"
+       id="path47" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 73.229016,4.0217503 V 33.917944"
+       id="path51" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3.4712303,33.917944 V 4.0217503"
+       id="path57" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 33.367424,4.0217503 V 33.917944"
+       id="path61" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 83.194414,4.0217503 V 33.917944"
+       id="path69" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.07559055;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 93.159816,4.0217503 V 33.917944"
+       id="path85" />
+  </g>
+</svg>
