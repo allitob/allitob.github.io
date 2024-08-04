@@ -1,0 +1,6 @@
+hægri klikk einhversstaðar og gera git bash here
+
+Setja inn 'git add . '
+Setja inn 'git commit -m "Add new files and updates" '
+Setja inn 'git push origin main'
+ 
